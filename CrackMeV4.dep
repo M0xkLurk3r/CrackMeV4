@@ -1,0 +1,29 @@
+# Microsoft Developer Studio Generated Dependency File, included by CrackMeV4.mak
+
+.\CrackMeV4.cpp : \
+	".\CrackMeV4.h"\
+	".\CrackMeV4Dlg.h"\
+	".\StdAfx.h"\
+	
+
+.\CrackMeV4.rc : \
+	".\lindab.bmp"\
+	".\res\CrackMeV4.ico"\
+	".\res\CrackMeV4.rc2"\
+	
+
+.\CrackMeV4Dlg.cpp : \
+	".\CrackMeV4.h"\
+	".\CrackMeV4Dlg.h"\
+	".\PublicHeaders.h"\
+	".\StdAfx.h"\
+	
+
+.\ExternDefine.cpp : \
+	".\PublicHeaders.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
